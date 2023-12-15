@@ -9,10 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2023 - To: 13 December 2023
+From: 07 December 2023 - To: 14 December 2023
 
-Java   0 secs          ███████████████████████░░   92.00 %
-XML    0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+Java   2 hrs 54 mins   █████████████████████████   99.59 %
+XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
