@@ -9,10 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 January 2024 - To: 15 January 2024
+From: 09 January 2024 - To: 16 January 2024
 
-Java   16 hrs 38 mins  ████████████████████████▓   98.97 %
-XML    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Java   14 hrs 29 mins  ████████████████████████▓   99.04 %
+XML    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
