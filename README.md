@@ -9,12 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2024 - To: 19 January 2024
+From: 13 January 2024 - To: 20 January 2024
 
-Java             14 hrs 16 mins  ████████████████████████▒   96.67 %
-XML              21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-YAML             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Java             11 hrs 50 mins  ████████████████████████░   96.55 %
+XML              17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+YAML             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
