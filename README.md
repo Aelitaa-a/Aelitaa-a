@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2024 - To: 23 January 2024
+From: 17 January 2024 - To: 24 January 2024
 
-Java             3 hrs 13 mins   █████████████████████▓░░░   86.56 %
-XML              13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-GitIgnore file   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-YAML             5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-Kotlin           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Java             2 hrs 45 mins   █████████████████████▒░░░   85.60 %
+XML              11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+GitIgnore file   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+YAML             5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Kotlin           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
