@@ -9,9 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 January 2024 - To: 05 February 2024
+From: 30 January 2024 - To: 06 February 2024
 
-Java   1 hr 18 mins    █████████████████████████   100.00 %
+Java   37 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
